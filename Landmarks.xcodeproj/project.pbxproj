@@ -16,6 +16,7 @@
 		F75F81612B7C7CA500C145A9 /* landmarkData.json in Resources */ = {isa = PBXBuildFile; fileRef = F75F81602B7C7CA500C145A9 /* landmarkData.json */; };
 		F75F81632B7C7CE200C145A9 /* Landmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = F75F81622B7C7CE200C145A9 /* Landmark.swift */; };
 		F75F81652B7C7FC900C145A9 /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = F75F81642B7C7FC900C145A9 /* ModelData.swift */; };
+		F75F816C2B7C88EF00C145A9 /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = F75F816B2B7C88EF00C145A9 /* LandmarkRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		F75F81602B7C7CA500C145A9 /* landmarkData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = landmarkData.json; sourceTree = "<group>"; };
 		F75F81622B7C7CE200C145A9 /* Landmark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Landmark.swift; sourceTree = "<group>"; };
 		F75F81642B7C7FC900C145A9 /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
+		F75F816B2B7C88EF00C145A9 /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				F75F81502B7C645E00C145A9 /* ContentView.swift */,
 				F75F815C2B7C70E000C145A9 /* CircleImage.swift */,
 				F75F815E2B7C724D00C145A9 /* MapView.swift */,
+				F75F816B2B7C88EF00C145A9 /* LandmarkRow.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -182,6 +185,7 @@
 				F75F814F2B7C645E00C145A9 /* LandmarksApp.swift in Sources */,
 				F75F815D2B7C70E000C145A9 /* CircleImage.swift in Sources */,
 				F75F81632B7C7CE200C145A9 /* Landmark.swift in Sources */,
+				F75F816C2B7C88EF00C145A9 /* LandmarkRow.swift in Sources */,
 				F75F81652B7C7FC900C145A9 /* ModelData.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
