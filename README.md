@@ -1,5 +1,5 @@
 # Swift Tutorial and Experimentation
-By Oscar Reyes
+
 ## Chapter 1: SwiftUI Essentials
 I am following the SwiftUI Tutorials to start learning how to use Xcode to make Apps. They are made by Apple and you can find at this link: https://developer.apple.com/tutorials/swiftui
 
